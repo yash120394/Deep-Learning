@@ -1,7 +1,3 @@
-# Final Project
-
-The project which we proposed earlier was semi-supervised learning i.e. Experiments with Inductive and Transductive Zero-ShotLearning in Generalized and Conventional Settings but now we are carrying out our experiments using fully unsupervised learning. The topic of the project is given below :
-
 ## Experimentation on Outlier Detection and Zero Shot Learning using Siamese and C2C-Siamese Network
 
 The source code consists of two parts :
